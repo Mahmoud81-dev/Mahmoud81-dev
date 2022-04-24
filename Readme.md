@@ -10,7 +10,7 @@ Hi, I'm Mahmoud Hamdy!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Developer;Freelancer;React.js%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="./1647128876838.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="./1647128876838.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="220" />
 <hr>
 
 ```
