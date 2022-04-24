@@ -16,7 +16,7 @@ Hi, I'm Mahmoud Hamdy!
 ```
 Mahmoud81-dev@github
 -------------------------
-💻 I am a self taught Frontend Developer and
+💻 I am  Frontend Developer 
 📚 I have a Bachelors in Computer Science from the University of Fayoum at Egypt
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on cloud and Web development
